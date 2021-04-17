@@ -1,5 +1,8 @@
 ---
 title: 编码/解码工具 @huayang 
+tags: 小书匠,语法,MARKDOWN,帮助
+category: 小书匠/帮助手册
+slug: storywriter/grammar
 ---
 
 
