@@ -1219,7 +1219,7 @@ ttk.Label(tab9,text='这只是我毕业设计项目的一个分类，未来还�
 
 #event不能去掉
 def open_url19(event):
-    webbrowser.open_new(r"https://hellohy.top/")
+    webbrowser.open_new(r"https://hellohy.top/huayang/5340.html")
 link19 = Label(tab9, text="博客", fg="Cyan", cursor="hand2", font=('Arial', 30))
 link19.place(x= 550 , y= 255)
 link19.bind("<Button-1>", open_url19)
