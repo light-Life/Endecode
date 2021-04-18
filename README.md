@@ -18,8 +18,11 @@ category: 原创工具
 
 ## 项目截图
 <center>Windows</center>
+
 ![Endecode-win](https://hellohy.top/imgs/Endecode-win.png)
+
 <center>macOS</center>
+
 ![Endecode-mac](https://hellohy.top/imgs/Endecode-mac.png)
 
 ## 初衷
