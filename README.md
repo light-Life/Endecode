@@ -17,8 +17,9 @@ category: 原创工具
 一共两个版本分别是windows及macOS版本，已经分别编译好了点击右方的Releases选择版本下载即可直接食用
 
 ## 项目截图
+->Windows<-
 ![Endecode-win](https://hellohy.top/imgs/Endecode-win.png)
-
+->macOS<-
 ![Endecode-mac](https://hellohy.top/imgs/Endecode-mac.png)
 
 ## 初衷
