@@ -16,9 +16,16 @@ category: 原创工具
 
 一共两个版本分别是windows及macOS版本，已经分别编译好了点击右方的Releases选择版本下载即可直接食用
 
+## 项目截图
+![Endecode-win](https://hellohy.top/imgs/Endecode-win.png)
+
+![Endecode-mac](https://hellohy.top/imgs/Endecode-mac.png)
+
 ## 初衷
 
-主要是没找到很符合我常用的编码解码工具，特别是hex和ascii中的一些编/解码。
+很早之前就有要写此工具的想法了苦于GUI实在麻烦且丑就搁置下来了，最近因为毕设方面的问题重新开始写此工具
+
+还有个原因是没找到很符合我常用的编码解码工具，特别是hex和ascii中的一些编/解码。
 
 如有更好的工具欢迎推荐。
 
